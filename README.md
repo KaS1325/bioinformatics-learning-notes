@@ -1,4 +1,4 @@
-# bioinformatics-learning-notes
+
 # 📘 Bioinformatics Learning Notes: Stats, ML & AI Foundations
 
 This repository documents my personal learning journey through the foundations of **statistics**, **machine learning**, and **AI** in the context of **bioinformatics**.
