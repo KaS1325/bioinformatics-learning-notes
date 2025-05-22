@@ -21,6 +21,13 @@ It is structured to reflect hands-on topics explored while taking the course _"A
 - **Probability Distributions** – Discrete & continuous, with emphasis on the normal distribution
 - **Standard Deviation & Variance** – Applications in gene expression and clinical variation
 - **Data Visualization** – Simple plots to interpret and explore biological data
+- **Day 1: Pandas + Molecular Descriptors** – Used pandas to load and explore molecular datasets (CSV format). Understood key molecular descriptors:
+  - **MolLogP** – Indicates hydrophobicity; important for membrane permeability
+  - **MolWt** – Molecular weight; affects absorption and transport
+  - **NumRotatableBonds** – Flexibility of molecule; relates to binding and stability
+  - **AromaticProportion** – Proportion of aromatic atoms; influences chemical behavior
+  - **logS** – Solubility (target value); crucial for drug design
+
 - Upcoming:
   - Introduction to **Supervised Learning**
   - Basics of **Feature Selection** in biological datasets
